@@ -1,0 +1,7 @@
+Git Branching :- 
+In Git, a branch is a new/separate version of the main repository. 
+Branches allow you to work on different parts of a project without 
+impacting the main branch. When the work is complete, a branch can be 
+merged with the main project.  
+We can even switch between branches and work on different 
+projects without them interfering with each other. 
